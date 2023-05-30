@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+li {
+    list-style-type: none;
+}
+
+.error-header {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+
+.error-message {
+    text-align: center;
+    color: olive;
+    font-style: italic;
+    text-decoration: underline;
+}
